@@ -1,0 +1,23 @@
+{
+  "name": "africas-talking-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickonyi/Africas-Talking-APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickonyi/Africas-Talking-APIs/issues"
+  },
+  "homepage": "https://github.com/nickonyi/Africas-Talking-APIs#readme",
+  "dependencies": {
+    "africastalking": "^0.6.2"
+  }
+}
