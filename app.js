@@ -9,8 +9,8 @@ const sms = Africastalking.SMS
 
 // Use the service
 const options = {
-    to: ['+254759997835', '+254721327396'],
-    message: "The big bad wolf is here to stay!"
+    to: ['+254759997835'],
+    message: "I'm a lumberjack and its ok, I work all night and sleep all day"
 }
 
 // Send message and capture the response or error
